@@ -37,10 +37,10 @@ $ serverless
 Login/Register: No
 Update: No
 Type: Node.js REST API
-Name: dio-live
+Name: dio-serverless-project
 ```
 ```
-$ cd dio-live
+$ cd dio-serverless-project
 $ code .
 ``` 
 - No arquivo ```serverless.yml``` adicionar a região ```region: us-east-1``` dentro do escopo de ```provider:```
